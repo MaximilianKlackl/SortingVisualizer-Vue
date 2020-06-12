@@ -1,5 +1,22 @@
 # visualzer
 
+## Description
+
+Sorting Visualizer written in Vue.js 
+
+Implemented Algorithms:
+* QuickSort
+* SelectionSort
+* BubbleSort
+
+### What I learned
+* using Vue components
+* components communication
+* deploying vue project to github pages
+* sorting Algorithms
+
+### Demo https://maximilianklackl.github.io/SortingVisualizer-Vue/
+
 ## Project setup
 ```
 npm install
